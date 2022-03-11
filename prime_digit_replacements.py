@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=51
+
 def is_prime(n: int) -> bool:
     if n <= 3:
         return n > 1
